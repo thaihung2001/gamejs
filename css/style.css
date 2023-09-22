@@ -18,8 +18,7 @@ body {
 /* actor */
 #bird {
  position: absolute;
-    background-color:yellow;
-/*  background: url('https://static1.bestie.vn/Mlog/ImageContent/202007/icon-mat-cuoi-noi-toan-the-gioi-nhung-cha-de-cua-no-chi-duoc-tra-$45-af6084.png'); */
+  background: url('https://static1.bestie.vn/Mlog/ImageContent/202007/icon-mat-cuoi-noi-toan-the-gioi-nhung-cha-de-cua-no-chi-duoc-tra-$45-af6084.png');
     height: 42px;
  width: 65px;
  background-size: contain;
