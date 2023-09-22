@@ -16,7 +16,7 @@ body {
 /* actor */
 #bird {
  position: absolute;
- background: url('images/bird.jpg');  /* url('')  */
+ background: url('/images/bird.jpg');  /* url('')  */
  height: 42px;
  width: 65px;
  background-size: contain;
