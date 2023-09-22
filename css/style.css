@@ -9,14 +9,14 @@ body {
     height: 480px;
     width: 350px;
     border: 1px solid #ccc;
-    background:url('/images/ii.jpg'); /* url('')  */
+    background:url('https://cdn.pixabay.com/photo/2018/05/15/09/23/flower-3402550_640.jpg'); /* url('')  */
     overflow: hidden;
     margin: 80px auto;
 }
 /* actor */
 #bird {
  position: absolute;
- background: url('/images/bird.jpg');  /* url('')  */
+ background: url('https://static1.bestie.vn/Mlog/ImageContent/202007/icon-mat-cuoi-noi-toan-the-gioi-nhung-cha-de-cua-no-chi-duoc-tra-$45-af6084.png');  /* url('')  */
  height: 42px;
  width: 65px;
  background-size: contain;
