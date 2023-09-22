@@ -9,14 +9,14 @@ body {
     height: 480px;
     width: 350px;
     border: 1px solid #ccc;
-    background:url('/images/ii.jpg'); /* url('')  */
+    background:url('images/ii.jpg'); /* url('')  */
     overflow: hidden;
     margin: 80px auto;
 }
 /* actor */
 #bird {
  position: absolute;
- background: url('/images/bird.jpg');  /* url('')  */
+ background: url('images/bird.jpg');  /* url('')  */
  height: 42px;
  width: 65px;
  background-size: contain;
