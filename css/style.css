@@ -9,7 +9,7 @@ body {
     height: 480px;
     width: 350px;
     border: 1px solid #ccc;
-    background:url('images/ii.jpg'); /* url('')  */
+    background:url('https://cdn.pixabay.com/photo/2018/05/15/09/23/flower-3402550_640.jpg'); /* url('')  */
     overflow: hidden;
     margin: 80px auto;
 }
